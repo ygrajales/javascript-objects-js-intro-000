@@ -1,10 +1,10 @@
-var playlist = new Object({Slowdive: 'My Bloody Valentine'});
+var playlist = new Object({Slowdive: 'Alison', My Bloody Valentine: 'Sometimes'});
 
 var updatePlaylist = (playlist, artistName, songTitle) => {
 
   var artistName = 'Phil Ochs';
 
-  var songTitle = 'Space Cowboy';
+  var songTitle = "Here's to the State of Mississippi";
 
   playlist.artistName = songTitle;
 
