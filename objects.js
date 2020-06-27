@@ -1,8 +1,8 @@
-var playlist = new Object({jessieReyez: 'Intruders'});
+var playlist = new Object({Slowdive: 'My Bloody Valentine'});
 
 var updatePlaylist = (playlist, artistName, songTitle) => {
 
-  var artistName = 'kaceyMusgroves';
+  var artistName = 'Phil Ochs';
 
   var songTitle = 'Space Cowboy';
 
